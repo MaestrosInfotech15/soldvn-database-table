@@ -1,0 +1,4 @@
+"id","user_id","cat_id1","cat_id2","cat_id3","name","price","condition","location","description","quantity","variation","delivery_type","delievery_price","status","selling_type","image"
+"3","1","2","3","0","admin","500","yes","Bhopal","Lorem Ipsum is simply dummy text of the  printing and typesetting industry.","2","0","0","65","1","0","Chrysanthemum.jpg,Desert.jpg,Hydrangeas - Copy.jpg,Hydrangeas.jpg,Jellyfish.jpg,Koala - Copy.jpg"
+"4","1","1","3","1","iuou","500","yes","Indorer","Lorem Ipsum is simply dummy text of the  printing and typesetting industry.","2","0","0","12","2","0","Chrysanthemum.jpg,Desert.jpg,Hydrangeas - Copy.jpg"
+"5","1","1","3","1","subh","500","yes","Bhopal mp","Lorem Ipsum is simply dummy text of the  printing and typesetting industry.","2","0","0","12","1","0","Hydrangeas.jpg,Jellyfish.jpg"
